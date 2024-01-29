@@ -25,4 +25,4 @@ cd Keyboard-Tester
 ```
 python keytest.py
 ```
-### 👉 You should need to Admin/Root privileges to run this script
+### 👉 You should need Admin/Root privileges to run this script
